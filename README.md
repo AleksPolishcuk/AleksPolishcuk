@@ -49,7 +49,7 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleksPolishcuk&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AleksPolishcuk&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksPolishcuk&layout=compact&theme=radical&hide_border=true)
 
 </div>
@@ -61,7 +61,7 @@
 ### **🎯 [Rental Car Platform](https://github.com/AleksPolishcuk/rental-car)**
 _Full-stack car rental application with booking system_
 - **Tech:** React, Node.js, Express, MongoDB
-- **Features:** Car listings, booking management, user authentication
+- **Features:** Car listings, filters, car details, booking management,
 - **Status:** 🟢 Active
 
 ### **🌍 [Travellers Platform](https://github.com/AleksPolishcuk/your-travellers-repo)** <!-- Заміни посилання -->
