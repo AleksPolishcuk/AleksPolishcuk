@@ -6,8 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-aleksice1p@gmail.com-blue?style=flat&logo=gmail)](mailto:aleksice1p@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksandr-polishchuk-full-stack-developer)
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-green?style=flat)](https://your-portfolio-link.com) <!-- Заміни на свій -->
-![Location](https://img.shields.io/badge/📍-Ukraine-008000?style=flat)
+![Location](https://img.shields.io/badge/📍-Finland-008000?style=flat)
 
 *Building modern web applications with clean code and user-centric design*
 
@@ -49,8 +48,7 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AleksPolishcuk&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksPolishcuk&layout=compact&theme=radical&hide_border=true)
+![My GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksPolishcuk&theme=vision_friendly_dark)
 
 </div>
 
