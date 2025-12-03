@@ -48,7 +48,8 @@
 
 <div align="center">
 
-![My GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksPolishcuk&theme=vision_friendly_dark)
+![My GitHub Rating](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksPolishcuk&theme=transparent)
+![My GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AleksPolishcuk&theme=transparent)
 
 </div>
 
@@ -79,12 +80,10 @@ _Music artist discovery platform_
 ## 📈 Current Focus
 
 - 🔭 **Learning:** Advanced React patterns, Next.js App Router, AI-assisted development
-- 🌱 **Exploring:** Docker, CI/CD, cloud deployment strategies
+- 🌱 **Exploring:** Angulsr Docker, CI/CD, cloud deployment strategies
 - 👯 **Looking to collaborate on:** Open-source projects, innovative web apps
 - 🤔 **Seeking help with:** Performance optimization, scalable architecture
-- 💬 **Ask me about:** React, JavaScript, full-stack development
 - 📫 **How to reach me:** [Email](mailto:aleksice1p@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oleksandr-polishchuk-full-stack-developer)
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I believe clean code is not just readable — it's respectful to other developers
 
 ---
