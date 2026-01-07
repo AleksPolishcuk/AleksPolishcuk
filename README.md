@@ -63,7 +63,7 @@ _Full-stack car rental application with booking system_
 - **Features:** Car listings, filters, car details, booking management,
 - **Status:** 🟢 Active
 
-### **🌍 [Travellers Platform](https://github.com/AleksPolishcuk/your-travellers-repo](https://travellers-app-frontend.vercel.app))** <!-- Заміни посилання -->
+### **🌍 [Travellers App](https://travellers-app-frontend.vercel.app)** <!-- Заміни посилання -->
 _Full-stack travel management application_
 - **Tech:** Next.js, TypeScript, REST API
 - **Features:** Destination browsing, trip planning, user profiles
